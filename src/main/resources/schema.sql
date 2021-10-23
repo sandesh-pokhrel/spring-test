@@ -1,0 +1,1 @@
+create table car (name varchar(100), type varchar(100));
